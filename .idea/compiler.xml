@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="21" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="&quot;-AoutRefMapFile=C:\Users\epot1\OneDrive\Documents\My Minecraft Mods\Better Ghasts\Better Ghasts 1.21.7\Usefuller Ghasts\build\classes\java\client\client-usefuller-ghasts-refmap.json&quot; -AdefaultObfuscationEnv=named:intermediary -Aquiet=true &quot;-AoutMapFileNamedIntermediary=C:\Users\epot1\OneDrive\Documents\My Minecraft Mods\Better Ghasts\Better Ghasts 1.21.7\Usefuller Ghasts\build\loom-cache\mixin-map-net.fabricmc.yarn.1_21_7.1.21.7+build.2-v2.client.tiny&quot; -AinMapFileNamedIntermediary=C:\Users\epot1\.gradle\caches\fabric-loom\1.21.7\net.fabricmc.yarn.1_21_7.1.21.7+build.2-v2\mappings.tiny" />
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Usefuller_Ghasts.main" options="&quot;-AoutRefMapFile=C:\Users\epot1\OneDrive\Documents\My Minecraft Mods\Better Ghasts\Better Ghasts 1.21.7\Usefuller Ghasts\build\classes\java\main\usefuller-ghasts-refmap.json&quot; -AdefaultObfuscationEnv=named:intermediary -Aquiet=true &quot;-AoutMapFileNamedIntermediary=C:\Users\epot1\OneDrive\Documents\My Minecraft Mods\Better Ghasts\Better Ghasts 1.21.7\Usefuller Ghasts\build\loom-cache\mixin-map-net.fabricmc.yarn.1_21_7.1.21.7+build.2-v2.main.tiny&quot; -AinMapFileNamedIntermediary=C:\Users\epot1\.gradle\caches\fabric-loom\1.21.7\net.fabricmc.yarn.1_21_7.1.21.7+build.2-v2\mappings.tiny" />
+      <module name="Usefuller_Ghasts.test" options="&quot;-AoutRefMapFile=C:\Users\epot1\OneDrive\Documents\My Minecraft Mods\Better Ghasts\Better Ghasts 1.21.7\Usefuller Ghasts\build\classes\java\test\test-usefuller-ghasts-refmap.json&quot; -AdefaultObfuscationEnv=named:intermediary -Aquiet=true &quot;-AoutMapFileNamedIntermediary=C:\Users\epot1\OneDrive\Documents\My Minecraft Mods\Better Ghasts\Better Ghasts 1.21.7\Usefuller Ghasts\build\loom-cache\mixin-map-net.fabricmc.yarn.1_21_7.1.21.7+build.2-v2.test.tiny&quot; -AinMapFileNamedIntermediary=C:\Users\epot1\.gradle\caches\fabric-loom\1.21.7\net.fabricmc.yarn.1_21_7.1.21.7+build.2-v2\mappings.tiny" />
+    </option>
+  </component>
+</project>

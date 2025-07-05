@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  #",
+    " / ",
+    "O  "
+  ],
+  "key": {
+    "#": "minecraft:amethyst_shard",
+    "/": "minecraft:blaze_rod",
+    "O": "minecraft:obsidian"
+  },
+  "result": {
+    "id": "usefuller_ghasts:ghast_stick",
+    "count": 1
+  }
+}

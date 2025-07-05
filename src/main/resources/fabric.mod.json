@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "usefuller_ghasts",
+  "version": "${version}",
+  "name": "Usefuller Ghasts",
+  "description": "Faster ghasts with fun fireball-firing-features!",
+  "authors": ["Elijah Potter"],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "me.elijah.usefuller_ghasts.client.Usefuller_ghastsDataGenerator"
+    ],
+    "client": [
+      "me.elijah.usefuller_ghasts.client.Usefuller_ghastsClient"
+    ],
+    "main": [
+      "me.elijah.usefuller_ghasts.Usefuller_ghasts"
+    ],
+    "modmenu": [
+      "me.elijah.usefuller_ghasts.client.GhastModMenu"
+    ]
+  },
+  "mixins": [
+    "usefuller_ghasts.mixins.json",
+    {
+      "config": "usefuller_ghasts.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

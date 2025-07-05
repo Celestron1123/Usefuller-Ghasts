@@ -1,0 +1,7 @@
+{
+  "item.usefuller_ghasts.ghast_stick": "Ghast Inciter",
+  "text.autoconfig.usefuller_ghasts.title": "Usefuller Ghasts Configuration",
+  "text.autoconfig.usefuller_ghasts.option.speedMultiplier": "Speed Multiplier (0 = vanilla, 100 = double speed)",
+  "text.autoconfig.usefuller_ghasts.option.description": "Configure the behavior of your Happy Ghasts",
+  "item.usefuller_ghasts.ghast_stick.tooltip": "Invoke the wrath of their ancestors"
+}

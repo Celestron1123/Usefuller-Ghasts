@@ -1,0 +1,39 @@
+/locate biome minecraft:plains
+/tp @s -527 98 -544
+/give Player14 minecraft:happy_ghast_spawn_egg
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/give Player542 minecraft:crafting_table
+/give Player542 minecraft:amethyst_shard
+/give Player542 minecraft:blaze_rod
+/give Player542 minecraft:obsidian
+/time set day
+/give Player365 usefuller_ghasts:ghast_stick 3
+/give @p usefuller_ghasts:ghast_stick 3
+/gamemode creative
+/gamemode survival
+/give @p usefuller_ghasts:ghast_stick 3
+/gamemode creative
+/time set day
+/give Player109 minecraft:observer
+/summon ghast ~ ~ ~
+/gamerule keepInventory true
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/time set day
+/gamemode creative
+/give @p usefuller_ghasts:ghast_stick
+/tp Player512 spawn
+/tp Player512 10 90 10
+/locate structure minecraft:ruined_portal
+/tp @s -544 ~ -592
+/time set day
+/gamemode survival
+/give Player700 minecraft:blaze_rod
+/time set day
+/gamemode creative
+/locate structure minecraft:ruined_portal
+/tp @s -544 ~ -592
+/time set day
